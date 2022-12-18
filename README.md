@@ -1,8 +1,8 @@
 
 
 
-# Student Management - Best for beginners
-# Angular 13 Basic Demo CRUD Application
+# Student Management in Angular
+
 
 ## Created By m.essa
 
